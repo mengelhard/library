@@ -12,5 +12,6 @@
 
 ### Skimmed
 
-- [What Are Bayesian Neural Network Posteriors Really Like?](http://proceedings.mlr.press/v139/izmailov21a.html). Izmailov, ..., Wilson. Relevance: Medium.
+- [What Are Bayesian Neural Network Posteriors Really Like?](http://proceedings.mlr.press/v139/izmailov21a.html) (Izmailov, ..., Wilson).
+   - Relevance = Medium
 - paper 2
