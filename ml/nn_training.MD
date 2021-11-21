@@ -12,5 +12,5 @@
 
 ### Skimmed
 
-- paper 1
+- [What Are Bayesian Neural Network Posteriors Really Like?](http://proceedings.mlr.press/v139/izmailov21a.html). Izmailov, ..., Wilson. Relevance: Medium.
 - paper 2
